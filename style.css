@@ -1,0 +1,14 @@
+body
+{
+background-position: initial;
+background-size: cover;
+}
+
+.heading{
+background-color: aqua;
+color:blue;
+font-size: 30px;
+margin: left;
+border: 1px solid grey;
+font-family: Tahoma;
+}
